@@ -134,12 +134,12 @@ maintext[3].classList.remove('hid')
 }
 
 imgcontaneer.addEventListener('mouseout',out)
-imgcontaneer.addEventListener('mouseover', hover)
+imgcontaneer.addEventListener('focus', hover)
 imgcontaneer1.addEventListener('mouseout',out1)
-imgcontaneer1.addEventListener('mouseover', hover1)
+imgcontaneer1.addEventListener('focus', hover1)
 imgcontaneer2.addEventListener('mouseout',out2)
-imgcontaneer2.addEventListener('mouseover', hover2)
+imgcontaneer2.addEventListener('focus', hover2)
 imgcontaneer3.addEventListener('mouseout',out3)
-imgcontaneer3.addEventListener('mouseover', hover3)
+imgcontaneer3.addEventListener('focus', hover3)
 
 
