@@ -105,7 +105,7 @@ hr {
 /* main page */
 
 .sec1 {
-    background: url('/imgs/sean-pollock-PhYq704ffdA-unsplash.jpg');
+    background: url('./imgs/sean-pollock-PhYq704ffdA-unsplash.jpg');
     background-size: cover;
     height: 60vh;
 
