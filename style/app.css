@@ -5,6 +5,7 @@ hr {
 
 
 * {
+
     padding: 0;
     margin: 0;
     box-sizing: border-box;
@@ -287,7 +288,7 @@ hr {
 .imgcontaneer {
     background-image: url('../imgs/istockphoto-2254404396-612x612.jpg');
     background-size: cover;
-    height: 500px;
+    height: 400px;
     display: flex;
     align-items: end;
 }
@@ -296,13 +297,13 @@ hr {
     background-color: rgb(46, 81, 28);
     width: 100vw;
     color: white;
-    padding: 30px 20px;
+    padding: 20px 20px;
 }
 
 #imgcontaneer2 {
     background-image: url('../imgs/jason-dent-3wPJxh-piRw-unsplash.jpg');
     background-size: cover;
-    height: 500px;
+    height: 400px;
     display: flex;
     align-items: end;
 }
@@ -311,13 +312,13 @@ hr {
     background-color: rgb(46, 81, 28);
     width: 100vw;
     color: white;
-    padding: 30px 20px;
+    padding: 20px 20px;
 }
 
 #imgcontaneer3 {
     background-image: url('../imgs/istockphoto-1415838837-612x612.jpg');
     background-size: cover;
-    height: 500px;
+    height: 400px;
     display: flex;
     align-items: end;
 }
@@ -326,13 +327,13 @@ hr {
     background-color: rgb(46, 81, 28);
     width: 100vw;
     color: white;
-    padding: 30px 20px;
+    padding: 20px 20px;
 }
 
 #imgcontaneer1 {
     background-image: url('../imgs/istockphoto-2216070942-612x612.jpg');
     background-size: cover;
-    height: 500px;
+    height: 400px;
     display: flex;
     align-items: end;
 }
@@ -341,7 +342,7 @@ hr {
     background-color: rgb(46, 81, 28);
     width: 100vw;
     color: white;
-    padding: 30px 20px;
+    padding: 20px 20px;
 }
 
 
@@ -399,9 +400,10 @@ hr {
     margin: 20px 0;
 }
 
-.sec6 h4{
+.sec6 h4 {
     margin-bottom: 10px;
 }
+
 .sec6 h2 span {
     font-weight: lighter;
 }
