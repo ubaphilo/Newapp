@@ -105,7 +105,7 @@ hr {
 /* main page */
 
 .sec1 {
-    background: url('./imgs/sean-pollock-PhYq704ffdA-unsplash.jpg');
+    background: url('../imgs/sean-pollock-PhYq704ffdA-unsplash.jpg');
     background-size: cover;
     height: 60vh;
 
@@ -285,7 +285,7 @@ hr {
 }
 
 .imgcontaneer {
-    background-image: url('/imgs/istockphoto-2254404396-612x612.jpg');
+    background-image: url('../imgs/istockphoto-2254404396-612x612.jpg');
     background-size: cover;
     height: 500px;
     display: flex;
@@ -300,7 +300,7 @@ hr {
 }
 
 #imgcontaneer2 {
-    background-image: url('/imgs/jason-dent-3wPJxh-piRw-unsplash.jpg');
+    background-image: url('../imgs/jason-dent-3wPJxh-piRw-unsplash.jpg');
     background-size: cover;
     height: 500px;
     display: flex;
@@ -315,7 +315,7 @@ hr {
 }
 
 #imgcontaneer3 {
-    background-image: url('/imgs/istockphoto-1415838837-612x612.jpg');
+    background-image: url('../imgs/istockphoto-1415838837-612x612.jpg');
     background-size: cover;
     height: 500px;
     display: flex;
@@ -330,7 +330,7 @@ hr {
 }
 
 #imgcontaneer1 {
-    background-image: url('/imgs/istockphoto-2216070942-612x612.jpg');
+    background-image: url('../imgs/istockphoto-2216070942-612x612.jpg');
     background-size: cover;
     height: 500px;
     display: flex;
